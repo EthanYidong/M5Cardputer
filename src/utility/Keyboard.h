@@ -11,7 +11,6 @@
 #pragma once
 #include <iostream>
 #include <vector>
-#include "Arduino.h"
 #include "Keyboard_def.h"
 
 struct Chart_t {
